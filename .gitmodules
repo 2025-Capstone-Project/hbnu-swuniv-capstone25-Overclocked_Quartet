@@ -22,3 +22,6 @@
 [submodule "003 Code/BMC"]
 	path = 003 Code/BMC
 	url = https://github.com/2025-Capstone-Project/BMC.git
+[submodule "003 Code/lepton_usb_control"]
+	path = 003 Code/lepton_usb_control
+	url = https://github.com/2025-Capstone-Project/purethermal1-uvc-capture.git
