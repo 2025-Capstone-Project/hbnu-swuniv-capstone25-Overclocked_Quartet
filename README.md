@@ -31,6 +31,10 @@
     
   
 ## Conclusion
+<img width="371" height="328" alt="normal1" src="https://github.com/user-attachments/assets/935d3d34-ad86-4a71-adf1-b0a330c2a936" />
+<img width="372" height="331" alt="abnormal" src="https://github.com/user-attachments/assets/778c6b33-84e9-4fae-abce-5e7617b1a59b" />
+
+
   - 본 프로젝트는 열화상 카메라와 YOLO 기반 AI 이상 탐지 기술을 사용하여 기존 온도센서 기반 냉각 시스템의 한계를 극복한다.
   - 기존 시스템은 감지하지 못했던 부품 주위의 외부 열원까지 정확하게 감지할 수 있어 과열로 인한 성능 저하와 부품 손상을 예방할 수 있다.
   - AI 기반 이상 탐지 알고리즘은 임계치 기반 이진 판별 방식을 사용하여, 팬의 고속 운전 시간을 최적화한다.
