@@ -19,6 +19,7 @@ jobs:
         with:
           lfs: true
           fetch-depth: 0   # 모든 히스토리와 태그를 가져옴
+          persist-credentials: false
 
       # 2. 모든 브랜치 정보를 확실하게 가져옵니다.
       - name: Fetch all branches from origin (B)
