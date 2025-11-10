@@ -11,6 +11,7 @@ on:
 
 jobs:
   mirror-to-a:
+    if: secrets.MIRROR_TOKEN != ''
     runs-on: ubuntu-latest
     steps:
       # 1. B 리포지토리(원본)의 모든 내용을 체크아웃합니다.
