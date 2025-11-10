@@ -4,9 +4,6 @@
 [submodule "003 Code/FAN_Controller"]
 	path = 003 Code/FAN_Controller
 	url = https://github.com/2025-Capstone-Project/FAN_Controller.git
-[submodule "003 Code/purethermal1-uvc-capture"]
-	path = 003 Code/lepton-usb-control
-	url = https://github.com/2025-Capstone-Project/purethermal1-uvc-capture.git
 [submodule "003 Code/sys-temp-to-influxdb"]
 	path = 003 Code/sys-temp-to-influxdb
 	url = https://github.com/2025-Capstone-Project/sys-temp-to-influxdb.git
