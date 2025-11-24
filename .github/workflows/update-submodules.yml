@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *' # 매일 자정에 실행 (필요에 따라 조절)
   workflow_dispatch: # 수동 실행 가능
 
+permissions:
+  contents: write
+
 jobs:
   update:
     if: github.repository != 'HBNU-SWUNIV/come-capstone25-overclocked_quartet'
